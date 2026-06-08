@@ -25,7 +25,7 @@
     <p align = "left">Sou estudante de Ciências da Computação,
     tenho interesse em atuar na área de desenvolvimento e conhecer novas tecnologias.
     Atualmente estou estudando Python, C# e SQL e futuramente entrarei no universo do frontend.<br><br>
-   -  🌱 Estou aprendendo Atualmente <strong>Python, C#, SQL</strong><br>
+   -  🌱 Estou aprendendo atualmente <strong>Python, C#, SQL</strong><br>
   <!-- -  ⚡ Fun fact: <strong>Gostaria de contribuir para projetos de código aberto.</strong> -->
     </p>
   </p>
