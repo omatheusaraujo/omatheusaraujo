@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0:0a1128,20:0a1128,60:005f73,100:00e6ff&height=120&section=header&radius=30&waveScale=20&waveFrequency=2&waveSpeed=1.5"/> 
 </p>
 
-<h1 align="center">Hey there? Matt here!</h1>
+<h1 align="center">Olá? Matt aqui!</h1>
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=-+Matt:+Sejam+Bem+vindos+ao+meu+universo!;Desenvolvedor+Csharp+e+JavaScript;&font=Orbitron&size=24&duration=4300&color=00FFFF&background=0A112800&center=true&width=580&height=50&vCenter=true&weight=600">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=-+Matt:+Sejam+Bem+vindos+ao+meu+universo!;Desenvolvedor+Csharp+e+Python;&font=Orbitron&size=24&duration=4600&color=00FFFF&background=0A112800&center=true&width=580&height=50&vCenter=true&weight=600">
   </a>
   <!-- redes sociais-->
 <p align="center">
@@ -24,16 +24,16 @@
   <p align="center">
     <p align = "left">Sou estudante de Ciências da Computação,
     tenho interesse em atuar na área de desenvolvimento e conhecer novas tecnologias.
-    Atualmente estou estudando JavaScript, C# e SQL e futuramente entrarei no universo do frontend.<br><br>
-   -  🌱 Estou aprendendo Atualmente <strong>JavaScript, C#, SQL</strong><br>
-   -  ⚡ Fun fact: <strong>Gostaria de contribuir para projetos de código aberto.</strong> 
+    Atualmente estou estudando Python, C# e SQL e futuramente entrarei no universo do frontend.<br><br>
+   -  🌱 Estou aprendendo Atualmente <strong>Python, C#, SQL</strong><br>
+  <!-- -  ⚡ Fun fact: <strong>Gostaria de contribuir para projetos de código aberto.</strong> -->
     </p>
   </p>
 <!-- minhas tecnologias que domino-->
 <h3 align="left">Linguagens e Tecnologias:</h3>    
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,py,mysql,git&perline=8" />
   </a>
 </p>
 
