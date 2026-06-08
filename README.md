@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=-+Matt:+Sejam+Bem+vindos+ao+meu+universo!;Desenvolvedor+Csharp+e+Python;&font=Orbitron&size=24&duration=4600&color=00FFFF&background=0A112800&center=true&width=580&height=50&vCenter=true&weight=600">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=-+Matt:+Sejam+Bem+vindos+ao+meu+universo!;Desenvolvedor+Csharp+e+Python;&font=Orbitron&size=24&duration=4400&color=00FFFF&background=0A112800&center=true&width=580&height=50&vCenter=true&weight=600">
   </a>
   <!-- redes sociais-->
 <p align="center">
